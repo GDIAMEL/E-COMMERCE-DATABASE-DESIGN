@@ -111,7 +111,7 @@ Clone the repository:
 
 Copy
 
-git clone https://github.com/YOUR_USERNAME/Ecommerce-Database-Design.git
+git clone https://github.com/GDIAMEL/E-COMMERCE-DATABASE-DESIGN.git
 
 Import the SQL schema into your database server.
 
